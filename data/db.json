@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "usuario": "John Doe",
       "email": "john.due@gmail.com"
     }
@@ -12,8 +12,9 @@
       "superhero": "Batman",
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "first_appearance": "Detective Comics #2",
+      "characters": "Bruce Wayne",
+      "alter_img": "https://i.pinimg.com/736x/57/f1/3e/57f13ec1b6e2d5712d03fec842e08356.jpg"
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "",
+      "superhero": "Seraphine",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Catautora",
+      "first_appearance": "LOL",
+      "characters": "Soporte",
+      "alter_img": "https://images.contentstack.io/v3/assets/blt93c07aad6c2c008a/blt0de59eb36031ad4d/64ee8ad5cd18ea563332749c/Seraphine_0.jpg"
     }
   ]
 }
